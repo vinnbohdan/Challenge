@@ -1,0 +1,11 @@
+C:\Users\bzaiets\Desktop\Challenge\bin\Release\Challenge.exe.config
+C:\Users\bzaiets\Desktop\Challenge\obj\Release\Challenge.csproj.ResolveComReference.cache
+C:\Users\bzaiets\Desktop\Challenge\bin\Release\Challenge.exe
+C:\Users\bzaiets\Desktop\Challenge\bin\Release\Challenge.pdb
+C:\Users\bzaiets\Desktop\Challenge\bin\Release\Newtonsoft.Json.dll
+C:\Users\bzaiets\Desktop\Challenge\bin\Release\Newtonsoft.Json.xml
+C:\Users\bzaiets\Desktop\Challenge\obj\Release\Challenge.MainWindow.resources
+C:\Users\bzaiets\Desktop\Challenge\obj\Release\Challenge.Properties.Resources.resources
+C:\Users\bzaiets\Desktop\Challenge\obj\Release\Challenge.csproj.GenerateResource.Cache
+C:\Users\bzaiets\Desktop\Challenge\obj\Release\Challenge.exe
+C:\Users\bzaiets\Desktop\Challenge\obj\Release\Challenge.pdb
